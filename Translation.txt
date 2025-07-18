@@ -1,0 +1,4 @@
+Hello : Hola 
+name : Nombre 
+chair : silla 
+Number : Número 
